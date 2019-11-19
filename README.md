@@ -1,4 +1,6 @@
-# a
+# Vue Observable Example
+
+> Store without vuex (smple example for simple projects)
 
 ## Project setup
 ```
